@@ -31,8 +31,6 @@ Fluxo Principal do Programa
 Estrutura de Arquivos do Projeto
 - main.c: Código-fonte principal.
 - jogadores.dat: Arquivo binário para armazenar os dados dos jogadores.
-- README.md: Arquivo de documentação explicativa do projeto.
-- LICENSE: Arquivo contendo a licença do projeto.
 
 --------------------------------------------------
 Instruções de Compilação
